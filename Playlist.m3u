@@ -1,15 +1,20 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="RetroTV" tvg-name="RetroTV" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/retrotv.png" group-title="Variedades",RetroTV
-https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/chunklist_w1312098742.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/seuuser/meuiptv/main/epg.xml" 
 
-#EXTINF:-1 tvg-id="SBTSP" tvg-name="SBT SP" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/sbt.png" group-title="Nacionais",SBT São Paulo
-https://embmaxtv.online/sbtsp/tracks-v1a1/mono.ts.m3u8
+### CANAIS ENTRETENIMENTO ###
+#EXTINF:-1 tvg-id="PlutoTVComedy" tvg-name="Pluto TV Comédia" tvg-logo="https://i.imgur.com/xyz123.png" group-title="Entretenimento",Pluto TV Comédia
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/123456/master.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/cartoon.png" group-title="Infantil",Cartoon Network
-https://embmaxtv.online/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PlutoTVReality" tvg-name="Pluto TV Reality" tvg-logo="https://i.imgur.com/abc456.png" group-title="Entretenimento",Pluto TV Reality
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/789012/master.m3u8
 
-#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/espn.png" group-title="Esportes",ESPN 6
-https://embmaxtv.online/espn6/tracks-v1a1/mono.ts.m3u8
+### CANAIS FILMES ###
+#EXTINF:-1 tvg-id="PlutoTVClassicMovies" tvg-name="Pluto TV Filmes Clássicos" tvg-logo="https://i.imgur.com/def789.png" group-title="Filmes",Pluto TV Filmes Clássicos
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/345678/master.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/adultswim.png" group-title="Entretenimento",Adult Swim
-https://embmaxtv.online/adultswim/tracks-v1a1/mono.ts.m3u8
+### CANAIS INFANTIS ###
+#EXTINF:-1 tvg-id="PlutoTVKids" tvg-name="Pluto TV Infantil" tvg-logo="https://i.imgur.com/ghi012.png" group-title="Infantil",Pluto TV Infantil
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/901234/master.m3u8
+
+### CANAIS ESPORTES ###
+#EXTINF:-1 tvg-id="PlutoTVSports" tvg-name="Pluto TV Esportes" tvg-logo="https://i.imgur.com/jkl345.png" group-title="Esportes",Pluto TV Esportes
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/567890/master.m3u8
