@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RetroTV" tvg-name="RetroTV" tvg-logo="https://example.com/retrotvlogo.png" group-title="Variedades",RetroTV
+#EXTINF:-1 tvg-id="RetroTV" tvg-name="RetroTV" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/retrotv.png" group-title="Variedades",RetroTV
 https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/chunklist_w1312098742.m3u8
 
-#EXTINF:-1 tvg-id="SBTSP" tvg-name="SBT São Paulo" tvg-logo="https://example.com/sbtlogo.png" group-title="Nacionais",SBT SP
+#EXTINF:-1 tvg-id="SBTSP" tvg-name="SBT SP" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/sbt.png" group-title="Nacionais",SBT São Paulo
 https://embmaxtv.online/sbtsp/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://example.com/cartoonnetworklogo.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/cartoon.png" group-title="Infantil",Cartoon Network
 https://embmaxtv.online/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" tvg-logo="https://example.com/espnlogo.png" group-title="Esportes",ESPN 6
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/espn.png" group-title="Esportes",ESPN 6
 https://embmaxtv.online/espn6/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://example.com/adultswimlogo.png" group-title="Entretenimento",Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/seuuser/meuiptv/main/logos/adultswim.png" group-title="Entretenimento",Adult Swim
 https://embmaxtv.online/adultswim/tracks-v1a1/mono.ts.m3u8
