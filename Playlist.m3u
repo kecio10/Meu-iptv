@@ -1,13 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/abc123.png" group-title="CANAIS ABERTOS",SBT (YouTube)
+https://www.youtube.com/watch?v=abcdef12345
 
-#EXTINF:-1 tvg-id="PlutoTV.br" tvg-name="Pluto TV Brasil" tvg-logo="https://i.imgur.com/xyz123.png" group-title="Entretenimento",Pluto TV Brasil
-https://i.mjh.nz/PlutoTV/all.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://i.imgur.com/xyz456.png" group-title="CANAIS ABERTOS",TV Cultura (YouTube)
+https://www.youtube.com/live/xyz789
 
-#EXTINF:-1 tvg-id="Xumo" tvg-name="Xumo Play" tvg-logo="https://i.imgur.com/abc456.png" group-title="Variados",Xumo Play
-https://i.mjh.nz/Xumo/all.m3u8
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="https://i.imgur.com/def789.png" group-title="CANAIS ABERTOS",TV Brasil (YouTube)
+https://www.youtube.com/live/123456
 
-#EXTINF:-1 tvg-id="Plex" tvg-name="Plex Free TV" tvg-logo="https://i.imgur.com/def789.png" group-title="Filmes e Séries",Plex Free TV
-https://i.mjh.nz/Plex/all.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://i.imgur.com/ghi012.png" group-title="NOTÍCIAS",Record News (YouTube)
+https://www.youtube.com/live/789abc
 
-#EXTINF:-1 tvg-id="STIRR" tvg-name="STIRR TV" tvg-logo="https://i.imgur.com/ghi012.png" group-title="Notícias e Esportes",STIRR TV
-https://i.mjh.nz/Stirr/all.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="https://i.imgur.com/jkl345.png" group-title="NOTÍCIAS",BandNews TV (YouTube)
+https://www.youtube.com/live/def456
+
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://i.imgur.com/mno678.png" group-title="RELIGIOSOS",TV Aparecida (YouTube)
+https://www.youtube.com/live/ghi789
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-logo="https://i.imgur.com/pqr901.png" group-title="NOTÍCIAS",CNN Brasil (YouTube)
+https://www.youtube.com/live/jkl012
